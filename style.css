@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+:root {
+    
+    /*---Primary Color---*/
+    
+    --bg-body: #120d0a;
+    --txt-color: #fdd1a1;
+    
+    /*---Neutral Color---*/
+    
+    --Very-dark-blue: hsl(120, 85%, 8%);
+    --Dark-grayish-blue: hsl(228, 12%, 48%);
+    --White: hsl(0, 0%, 100%);
+    
+    /*---Fonts---*/
+    
+    Font-size: 14px;
+
+    --mn-text: 'Fraunces', serif;
+    --bg-text: 'Montserrat', sans-serif;    
+    
+}
+
+/*--------------------------------------------------------*/
+
+* {
+    box-sizing: border-box;   
+}
+
+body {
+    margin-top: 2em;
+    background-color: var(--bg-body);
+    font-family: var(--mn-text);
+}
+
+main {
+    border-radius: 1em;
+    color: var(--txt-color);
+    margin-top: 2em;
+}
+
+article {
+    padding: 2em;
+}
+
+h1 {
+    font-family: var(--mn-text);
+    font-size: 2.3em;
+    line-height: 1em;
+    margin-top: .5em;
+}
+
+p {
+    
+    line-height: 1.6em;
+}
+
+ul {
+    list-style: none;
+    margin: .9em;
+}
+
+li {
+    margin-inline: .7em;
+    font-weight: bold;
+    font-size: small;
+}
+
+img{
+    padding: .8em 0em .1em;
+}
+
+a {
+    text-decoration: none;
+    font-size: medium;
+}
+
+.subtitulo {
+    margin-top: .0em;
+}
+
+/*--------------------------------------------------------*/
+
+.btn {
+    border: none;
+    border-radius: .6em;
+    display: flex; 
+    color: var(--White);
+    background-color: var(--Dark-cyan);
+}
+
+.btn:hover {
+    background-color: #293f29;
+}
+
+.btn img {
+    object-fit: scale-down;
+    object-position: left;
+    max-height: 2em;
+}
+
+
+/*---------------------Footer-------------------------*/
+
+.attribution { 
+    margin-top: 16vh;
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: var(--Dark-cyan);    
+}
+
+.attribution a:hover {
+    color: var(--Dark-cyan);
+    text-shadow: var(--Dark-cyan) 1px 0 10px;
+    
+}
+
+/*------------------Media Queries-----------------------*/
+
+/*
+@media (max-width: 610px) {
+    main {
+        display: grid;
+        grid-template-columns: 1fr;
+        
+        width: 340px;
+        height: 600px;
+
+        margin-top: 0em;
+        /*    
+        
+    }
+    .desk {
+        display: none;
+    }
+    
+    article > * {
+        margin: .2em 0em;
+    }
+    
+    .mob {
+        display: block;
+        border-radius: 1em 1em 0em 0em;
+        max-width: 100%;
+    }
+    .attribution { 
+        margin-top: 4vh;
+        font-size: 8px;
+    }
+    
+    footer {
+        display: grid;
+        row-gap: .7em;
+        
+    }
+    
+}
+*/
