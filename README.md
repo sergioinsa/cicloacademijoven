@@ -1,6 +1,12 @@
-# Ciclo Académica Joven. 
+# Ciclo Académica Joven
 
-## Programa de concierto - Homenaje Astor Piazzolla - 29-09-2024
+[![Flyer del evento y Link al Programa](homenajepiazzo.jpg)](https://sergioinsa.github.io/cicloacademijoven)
+
+[Link a la publicación en Instagram](https://www.instagram.com/p/C_tpaPMO2dq/?utm_source=ig_web_copy_link&igsh=ZDNlZDc0MzIxNw==)
+
+Este proyecto se generó usando HTML con bootstrap y algo de CSS  para disponibilizar el programa de concierto homenaje al emblemático Astor Piazzolla en la ciudad de Junín, Bs. As. Argetina el día 29 de Septiembre 2024.
+
+## Programa de concierto
 
 ### PRIMERA PARTE
 
@@ -13,11 +19,12 @@
 * Fuga y misterio
 
 #### Cuarteto Unnoba:
+
 * Federico Moujan (violín)
 * Pablo Labanda (violín)
 * Ricardo Bugallo (viola)
 * Verónica Almerares (chelo)
-* 
+
 ### SEGUNDA PARTE
 
 * Buenos Aires hora cero
@@ -38,4 +45,5 @@
 * Sofía Piazza (contrabajo)
 * Karina Mosquera Oliva (piano)
 
-* ***Cantante invitado: Juan Andrés Pastorino**
+> **Cantante invitado: Juan Andrés Pastorino**
+
