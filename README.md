@@ -2,7 +2,7 @@
 
 [![Flyer del evento y Link al Programa](homenajepiazzo.jpg)](https://sergioinsa.github.io/cicloacademijoven)
 
-[Link a la publicación en Instagram](https://www.instagram.com/p/C_tpaPMO2dq/?utm_source=ig_web_copy_link&igsh=ZDNlZDc0MzIxNw==)
+[Link a la publicación de Instagram](https://www.instagram.com/p/C_tpaPMO2dq/?utm_source=ig_web_copy_link&igsh=ZDNlZDc0MzIxNw==)
 
 Este proyecto se generó usando HTML con bootstrap y algo de CSS  para disponibilizar el programa de concierto homenaje al emblemático Astor Piazzolla en la ciudad de Junín, Bs. As. Argetina el día 29 de Septiembre 2024.
 
@@ -18,7 +18,7 @@ Este proyecto se generó usando HTML con bootstrap y algo de CSS  para disponibi
 * Escualo
 * Fuga y misterio
 
-#### Cuarteto Unnoba:
+#### Cuarteto Unnoba
 
 * Federico Moujan (violín)
 * Pablo Labanda (violín)
@@ -37,7 +37,7 @@ Este proyecto se generó usando HTML con bootstrap y algo de CSS  para disponibi
 * Balada para un loco*
 * Adiós Nonino
 
-#### Quinteto Revirados:
+#### Quinteto Revirados
 
 * Mariano Guevara (bandoneón)
 * Gisela Petraglia (violín)
@@ -45,5 +45,10 @@ Este proyecto se generó usando HTML con bootstrap y algo de CSS  para disponibi
 * Sofía Piazza (contrabajo)
 * Karina Mosquera Oliva (piano)
 
-> **Cantante invitado: Juan Andrés Pastorino**
+#### **Cantante invitado: Juan Andrés Pastorino**
 
+---
+
+[Link a la web con el Programa](https://sergioinsa.github.io/cicloacademijoven)
+
+**Hecho con ❤️ - Sergio Insaurralde - [Contacto 📧](insaurralde.sh@gmail.com)**
